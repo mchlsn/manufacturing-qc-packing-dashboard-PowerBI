@@ -36,7 +36,7 @@ Halaman 1: Overview (Performa Produksi)
 
 - Total Pack by ASST: Membandingkan capaian output antar koordinator/asisten (AZ: 328.96K, KZ: 315.32K, MG: 301.48K).
 
-- Produksi /SPV: Menampilkan kontribusi output masing-masing supervisor (SPV-01 s.d. SPV-09) yang dipecah berdasarkan jenis produk (FG-01, FG-02, FG-03).
+- Hasil Pack SPV: Menampilkan kontribusi output masing-masing supervisor (SPV-01 s.d. SPV-09) yang dipecah berdasarkan jenis produk (FG-01, FG-02, FG-03).
 
 <img width="1102" height="618" alt="image" src="https://github.com/user-attachments/assets/0111e551-8a3a-432e-9b9e-3730927cffa3" />
 
