@@ -1,4 +1,4 @@
-DASHBOARD PEMANTAUAN PERFORMA PACKING & QUALITY CONTROL (QC)
+## DASHBOARD PEMANTAUAN PERFORMA PACKING & QUALITY CONTROL (QC)
 
 
 
@@ -30,28 +30,26 @@ Dashboard dibagi menjadi dua halaman utama agar alur pembacaan mengalir dari gam
 
 
 
-Halaman 1: Overview (Performa Produksi)
+## Halaman 1: Overview (Performa Produksi)
 
-- KPI Cards: Menampilkan ringkasan Total Pack, Total Berat Produksi, ALL Reject, dan % Reject Rate.
+- **KPI Cards:** Menampilkan ringkasan Total Pack, Total Berat Produksi, ALL Reject, dan % Reject Rate.
 
-- Total Pack by ASST: Membandingkan capaian output antar koordinator/asisten (AZ: 328.96K, KZ: 315.32K, MG: 301.48K).
+- **Total Pack by ASST:** Membandingkan capaian output antar koordinator/asisten (AZ: 328.96K, KZ: 315.32K, MG: 301.48K).
 
-- Hasil Pack SPV: Menampilkan kontribusi output masing-masing supervisor (SPV-01 s.d. SPV-09) yang dipecah berdasarkan jenis produk (FG-01, FG-02, FG-03).
+- **Hasil Pack SPV:** Menampilkan kontribusi output masing-masing supervisor (SPV-01 s.d. SPV-09) yang dipecah berdasarkan jenis produk (FG-01, FG-02, FG-03).
 
 <img width="1102" height="618" alt="image" src="https://github.com/user-attachments/assets/0111e551-8a3a-432e-9b9e-3730927cffa3" />
 
 
+## Halaman 2: Quality Control (Analisis Reject)
 
+- **Pareto Chart % Reject Rate:** Mengidentifikasi kategori cacat paling dominan beserta persentase kontribusi kumulatifnya (Pinggir, Tengah, Lubang, Belang, Sobek, Bentuk, Jatuh, Bintik hitam/merah).
 
-Halaman 2: Quality Control (Analisis Reject)
+- **Total Reject per Produk:** Memetakan volume reject pada produk FG-01, FG-02, dan FG-03.
 
-- Pareto Chart % Reject Rate: Mengidentifikasi kategori cacat paling dominan beserta persentase kontribusi kumulatifnya (Pinggir, Tengah, Lubang, Belang, Sobek, Bentuk, Jatuh, Bintik hitam/merah).
+- **Hasil Pack/Operator:** Menampilkan distribusi output packing antar operator (OP-01 s.d. OP-06).
 
-- Total Reject per Produk: Memetakan volume reject pada produk FG-01, FG-02, dan FG-03.
-
-- Hasil Pack/Operator: Menampilkan distribusi output packing antar operator (OP-01 s.d. OP-06).
-
-- % Reject Rate per Jenis Reject: Memvisualisasikan persentase reject rate dari masing-masing jenis cacat terhadap total produksi.
+- **% Reject Rate per Jenis Reject:** Memvisualisasikan persentase reject rate dari masing-masing jenis cacat terhadap total produksi.
 
 <img width="1102" height="622" alt="image" src="https://github.com/user-attachments/assets/6b5ffa66-b769-4197-8733-94b1839b0351" />
 
